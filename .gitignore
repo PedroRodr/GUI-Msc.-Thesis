@@ -1,0 +1,13 @@
+/Include
+/Lib
+/Scripts
+/__pycache__
+/00_old
+pyvenv.cfg
+designer.exe.Ink
+
+designer.exe.lnk
+mw_board_data.mat
+Cap_board_data.mat
+*.mat
+*.png

@@ -1,0 +1,7 @@
+$100=8050; 	X-axis travel resolution 	[step/mm]	
+$110=80; 	X-axis maximum rate			[mm/min]	
+$120=5000;	X-axis acceleration			[mm/sec^2]
+$101=8050; 	Y-axis travel resolution 	[step/mm]	
+$111=80; 	Y-axis maximum rate			[mm/min]	
+$121=5000;	Y-axis acceleration			[mm/sec^2]	
+$X;			Disable Alarm

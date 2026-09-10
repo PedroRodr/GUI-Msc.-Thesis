@@ -1,0 +1,9 @@
+Figura 3x3_1
+Feita com a probe encostada no vidro
+Percebe-se que o pó próximo do parafuso saiu mas o distante não nivelou
+
+FIgura 3x3_2
+Feita com a probe encostada no vidro e redução do x res de 4mm para 3.6mm
+
+4_ Holes apresenta bem os pontos porém próximo do parafuso há ausencia de pó que piora a imagem
+

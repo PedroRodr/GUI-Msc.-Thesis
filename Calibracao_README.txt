@@ -1,0 +1,1 @@
+A calibração foi feita usando a proveta com 4 linhas, na primeira linha estão os valores no ponto de minimo, na 2° os pontos de máximo, a 3° a média por canal dos valores minimos e na 4° a média por canal do máximo
